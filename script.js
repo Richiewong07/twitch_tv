@@ -21,5 +21,6 @@ $(document).ready(function() {
     following.push('brunofin');
     following.push('ESL_SC2');
   });
+  console.log(following);
 
 })
